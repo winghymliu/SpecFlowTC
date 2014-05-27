@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTC", "SepcFlowTC\SpecFlowTC.csproj", "{E8028FEB-DCDE-45E4-AA25-7F948361CA40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTC", "SpecFlowTC\SpecFlowTC.csproj", "{E8028FEB-DCDE-45E4-AA25-7F948361CA40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTC.Spec", "SpecFlowTC.Spec\SpecFlowTC.Spec.csproj", "{81ED3ECA-4050-493D-B2D7-940416231256}"
 EndProject

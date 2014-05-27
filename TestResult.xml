@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-05-27" time="14:11:26">
-  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Workspace\SpecFlowTC\SepcFlowTC" machine-name="DSK-TRD-01918" user="WHym-Liu" user-domain="SIG" />
+<test-results name="C:\Workspace\SpecFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-05-27" time="15:03:04">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Workspace\SpecFlowTC" machine-name="DSK-TRD-01918" user="WHym-Liu" user-domain="SIG" />
   <culture-info current-culture="en-GB" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.dll" executed="True" result="Success" success="True" time="0.714" asserts="0">
+  <test-suite type="Assembly" name="C:\Workspace\SpecFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.dll" executed="True" result="Success" success="True" time="0.730" asserts="0">
     <results>
-      <test-suite type="Namespace" name="SepcFlowTC" executed="True" result="Success" success="True" time="0.698" asserts="0">
+      <test-suite type="Namespace" name="SepcFlowTC" executed="True" result="Success" success="True" time="0.714" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="TestFeature" description="Test" executed="True" result="Success" success="True" time="0.695" asserts="0">
+          <test-suite type="TestFixture" name="TestFeature" description="Test" executed="True" result="Success" success="True" time="0.712" asserts="0">
             <results>
-              <test-case name="SepcFlowTC.TestFeature.AddTwoNumbers" description="Add two numbers" executed="True" result="Success" success="True" time="0.255" asserts="1">
+              <test-case name="SepcFlowTC.TestFeature.AddTwoNumbers" description="Add two numbers" executed="True" result="Success" success="True" time="0.258" asserts="1">
                 <categories>
                   <category name="mytag" />
                 </categories>

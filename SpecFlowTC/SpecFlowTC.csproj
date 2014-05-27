@@ -7,8 +7,8 @@
     <ProjectGuid>{E8028FEB-DCDE-45E4-AA25-7F948361CA40}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SepcFlowTC</RootNamespace>
-    <AssemblyName>SepcFlowTC</AssemblyName>
+    <RootNamespace>SpecFlowTC</RootNamespace>
+    <AssemblyName>SpecFlowTC</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
