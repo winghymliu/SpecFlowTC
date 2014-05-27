@@ -3,3 +3,6 @@ C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\bin\Debug\SepcFlowTC.exe
 C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\bin\Debug\SepcFlowTC.pdb
 C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\obj\Debug\SepcFlowTC.exe
 C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\obj\Debug\SepcFlowTC.pdb
+C:\Workspace\SpecFlowTC2\SepcFlowTC\bin\Debug\SepcFlowTC.exe.config
+C:\Workspace\SpecFlowTC2\SepcFlowTC\obj\Debug\SepcFlowTC.exe
+C:\Workspace\SpecFlowTC2\SepcFlowTC\obj\Debug\SepcFlowTC.pdb
