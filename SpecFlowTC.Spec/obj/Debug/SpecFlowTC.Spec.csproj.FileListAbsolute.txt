@@ -1,0 +1,9 @@
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.dll.config
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.dll
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\SpecFlowTC.Spec.pdb
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\nunit.framework.dll
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\TechTalk.SpecFlow.dll
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\bin\Debug\nunit.framework.xml
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\obj\Debug\SpecFlowTC.Spec.csprojResolveAssemblyReference.cache
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\obj\Debug\SpecFlowTC.Spec.dll
+C:\Workspace\SpecFlowTC\SepcFlowTC\SpecFlowTC.Spec\obj\Debug\SpecFlowTC.Spec.pdb

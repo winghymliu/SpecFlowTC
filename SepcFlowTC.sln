@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SepcFlowTC", "SepcFlowTC\SepcFlowTC.csproj", "{E8028FEB-DCDE-45E4-AA25-7F948361CA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTC.Spec", "SpecFlowTC.Spec\SpecFlowTC.Spec.csproj", "{81ED3ECA-4050-493D-B2D7-940416231256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8028FEB-DCDE-45E4-AA25-7F948361CA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8028FEB-DCDE-45E4-AA25-7F948361CA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8028FEB-DCDE-45E4-AA25-7F948361CA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8028FEB-DCDE-45E4-AA25-7F948361CA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ED3ECA-4050-493D-B2D7-940416231256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ED3ECA-4050-493D-B2D7-940416231256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ED3ECA-4050-493D-B2D7-940416231256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ED3ECA-4050-493D-B2D7-940416231256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

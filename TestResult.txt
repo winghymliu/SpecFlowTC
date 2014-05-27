@@ -1,0 +1,9 @@
+***** SepcFlowTC.TestFeature.AddTwoNumbers
+Given I have entered 50 into the calculator
+-> done: TestSteps.GivenIHaveEnteredIntoTheCalculator(50) (0.0s)
+And I have entered 70 into the calculator
+-> done: TestSteps.GivenIHaveEnteredIntoTheCalculator(70) (0.0s)
+When I press add
+-> done: TestSteps.WhenIPressAdd() (0.0s)
+Then the result should be 120 on the screen
+-> done: TestSteps.ThenTheResultShouldBeOnTheScreen(120) (0.0s)

@@ -1,0 +1,5 @@
+C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\bin\Debug\SepcFlowTC.exe.config
+C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\bin\Debug\SepcFlowTC.exe
+C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\bin\Debug\SepcFlowTC.pdb
+C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\obj\Debug\SepcFlowTC.exe
+C:\Workspace\SpecFlowTC\SepcFlowTC\SepcFlowTC\obj\Debug\SepcFlowTC.pdb
